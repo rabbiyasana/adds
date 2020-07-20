@@ -1,6 +1,5 @@
 #l-logo{
-    height: 80px;
-    width: 230px;
+    margin-left:10px;
 }
 #r-logo{
     height: 80px;
@@ -27,3 +26,15 @@
     height: 50px;
     width: 50px;
 }
+
+
+
+/* 
+  .st{
+      border: 2px solid #007c88;
+      margin-left: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+  } */

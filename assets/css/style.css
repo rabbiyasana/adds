@@ -1,0 +1,29 @@
+#l-logo{
+    height: 80px;
+    width: 230px;
+}
+#r-logo{
+    height: 80px;
+    width: 450px;
+    float: right;
+}
+.inner{
+     height: auto;
+    width: 100%;
+
+}
+
+#slider{
+    background-image: url('assets/img/back.jpg');
+   background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+   
+}
+#slider{
+    background-color:rgba(0,0,0,0.76);
+}
+.l{
+    height: 50px;
+    width: 50px;
+}

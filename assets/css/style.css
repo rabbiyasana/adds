@@ -58,6 +58,12 @@
     height: auto;
     width: auto;
 }
+.im2{
+    background-color:rgba(0,0,0,0.65);
+    height: auto;
+    width: auto;
+
+}
 /* page two */
 .how_slider{
     background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/64/8557fa0d3d5c357.jpg);
@@ -65,6 +71,11 @@
     background-repeat: no-repeat;
 height: auto;
 width: auto;
+}
+.how_slider2{
+    background-color:rgba(0,0,0,0.65);
+    height: auto;
+    width: auto;
 }
 .btn2{
     height: 50px;
@@ -78,4 +89,18 @@ padding-top: 7px;
 padding-left: 15px;
 }
 
+/* page 3 */
 
+.faq_slider{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBwgWFQkWFRUYFxMVFxsaHhofFxgXFhodGB8kHzQgHyYxGyAfLTEhMSkvOjMuFx81RDotOjQ5LjcBCgoKDg0NGhAQGislHB8rLTc3LC8tMDcvNy42NS0tLywtNTctKzg3Ky0rLSstLisrNzUtNS4tLSsrLS0rLzUrK//AABEIAKgBLAMBIgACEQEDEQH/xAAbAAEAAwADAQAAAAAAAAAAAAAABAUGAQMHAv/EADQQAQACAQEGAwUFCQAAAAAAAAABAgMEBRESITFBUWHBBhMycbEUFSOBogckMzRCUnKRof/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMFBP/EAB8RAQEBAQEAAQUBAAAAAAAAAAABAhEDMQQTIUFxEv/aAAwDAQACEQMRAD8A0QD2uCAAAAAAAAAAAAIW1tnYtp6X3WSd1450vHWs9phNBMvL2MbXXRpbTptqWimprynf0t4Wr5STtjQdtRv+UTPo198WO88V8cTPjMRLq1WmrmxcOPdXJE7623dJj07THhMqWPTn2ls6zGPaFM38vp8t/wDDHafRIim0c0bsOxNVPnGGY+r0v2T1+HWbP4a0imopPDenhMdfy8+++JXjHXNT8zroYzcXudWfx5z+zT2Y1+k1OXaG1sV8fFHBXHfdE25xab2j/kfOzaazT7uUfksnxlpGSnDJ1aRU6TLatuGfijot8d4vTihUarFaluOPijqkaPUd56d01KxBV7b2n9ix+6wz+PP6Y8USdqu9zE7Uf2mpp7YYtbJEaiOkd5iWbc3ta9pve2+09Zlw3zORyfX0+5rvABZkAAAAAAAAAAAAAAAAAAAAAAAAAA66anJsvXRtLTxyjllrH9VfH5x9N/hDf6XUY9Vp4z4Lb8do3xLCJXsztD7q1v3fmn9zyTvxz/bPenrHly7MfTPPy6P0vt2f4vz+m2AZvYj6rFxV44jmqrT9mycUz+Guc2bFgrxZskVjznczG2dfh1E+60v8Pfznp/pfMtZevrnE7flaZNs4NNp+VuLJ2iPXwZnPmvnyzly233nrL4GucyOb6+2vT5AFmIAAAAAAAAAAAAAAAAAAAAAAAAAAAA6tRhrqMM47zMeEx1iY5xMecS7RCZbL2NLsba+O2l93q8m69I3757xHr5IG0Nu6jPbh008GLy+KfnPZUisxJW+vqd6zxza1r24r2mbeM83ALsAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//Z);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+height: auto;
+width: auto;
+}
+.faq_slider2{
+    background-color:rgba(0,0,0,0.65);
+    height: auto;
+    width: auto;
+}

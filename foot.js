@@ -29,7 +29,7 @@ document.getElementById("footer").innerHTML =
          '<img src="assets/img/BTC.png" alt="" class="l">  <img src="assets/img/ETH.png" alt="" class="l">  <img src="assets/img/LTC.png" alt="" class="l">  <img src="assets/img/cpay.png" alt="" class="l">'+
         '</div>'+
         '<div class="col-xl-4 col-md-4 col-sm-12 my-2 text-center d-block font-weight-bold">'+
-'@2019<span style="color: goldenrod;">Gold</span> <span style="color: white;">Ad</span> <span style="color:black;">Pack</span> <apan>.Com</span>'+
+'@2019<span style="color: goldenrod;">Gold</span> <span style="color: red;">Ad</span> <span style="color:black;">Pack</span> <apan>.Com</span>'+
         '</div>'+
         '</div>'+
     '</div>'+

@@ -10,7 +10,7 @@ document.getElementById("navMenu").innerHTML =
                 '<div class="navbar-nav">'+
                     '<a href="index.html" class="nav-item nav-link text-light px-3">Home</a>'+
                     '<a href="HOW.html" class="nav-item nav-link text-light px-3">How It Work</a>'+
-                    '<a href="#" class="nav-item nav-link text-light px-3">F.A.Q</a>'+
+                    '<a href="faq.html" class="nav-item nav-link text-light px-3">F.A.Q</a>'+
                     '<a href="#" class="nav-item nav-link text-light px-3">Rules</a>'+
                     '<a href="#" class="nav-item nav-link text-light px-3">Login</a>'+
                     '<a href="#" class="nav-item nav-link text-light px-3">Contact</a>'+

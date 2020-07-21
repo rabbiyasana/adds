@@ -58,3 +58,24 @@
     height: auto;
     width: auto;
 }
+/* page two */
+.how_slider{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/64/8557fa0d3d5c357.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+height: auto;
+width: auto;
+}
+.btn2{
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+.reg > a{
+padding-top: 7px;
+padding-left: 15px;
+}
+
+
